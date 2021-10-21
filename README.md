@@ -1,14 +1,13 @@
 # This is the README file of ACA Homework poject developt by Ashot Nikoghosyan
 
 ## CONTENTS 
-* AUTHOR.
-* DESCRIPTION.
-* COMMANDS.
-        git push -u origin main
+* AUTHOR
+* DESCRIPTION
+* COMMANDS
+ 
 # AUTHER 
 * ASHOT NIKOGHOSYAN
-* contact:
-* phonenumber:+37477049404
+* phone number:+37477049404
 * gmail:ashot.nikogosyan2000@gmail.com
    
 # DESCRIPTION
